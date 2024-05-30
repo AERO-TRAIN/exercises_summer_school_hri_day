@@ -4,7 +4,7 @@
 **Before the start of the summer school, the student should have proper setup the laptop with the following:**
 1. Docker
     - Install Docker on Ubuntu: [Docker installation guide for Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
-    - Check docker is properly setup on laptop: open a terminal and run`docker run hello-world`
+    - Check docker is properly setup on laptop: open a terminal and run `docker run hello-world`
 2. Terminator
     - `sudo apt-get install terminator`
 3. Clone the repository
