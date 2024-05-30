@@ -1,0 +1,1 @@
+# exercises_summer_school_hri_day
