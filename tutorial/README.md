@@ -21,7 +21,7 @@
 1. Edit with your preferable editor the velocity_controller.py file to control the UAV
 2. Edit with your preferable editor the keyboard_teleoperation.py file to give position setpoints from your keyboard
 3. Edit with your preferable editor the position_prediction.py file to compensate for communication delays
-* If you need extra terminals for your controller container, in a new window termanl run: `docker exec -it <your_container_name> bash`
+* If you need extra terminals for your controller container: in a new window terminal run: `docker exec -it <your_container_name> bash`
 
 ## Troubleshooting
 Consider opening an Issue if you have [troubles](https://github.com/AERO-TRAIN/exercises_summer_school_hri_day/issues) with the exercises of the repo.\
