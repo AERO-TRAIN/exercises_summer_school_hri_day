@@ -5,14 +5,14 @@
 2. Make the run_gazebo.sh file executable
     - `chmod +x run_gazebo.sh`
 3. Launch the gazebo world
-    - `/.run_gazebo.sh`
+    - `./run_gazebo.sh`
 
 ## Controller container
 1. Navigate to the directory /exercises_summer_school_hri_day/tutorial
 2. Make the run_controller.sh file executable
     - `chmod +x run_controller.sh`
 3. Launch the gazebo world
-    - `/.run_controller.sh`
+    - `./run_controller.sh`
 
 ## Exercise implementation
 1. In the controller container navigate to the ~/catkin_ws/src/summer_school_controller/src/ directory
