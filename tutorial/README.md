@@ -11,7 +11,7 @@
 1. Navigate to the directory /exercises_summer_school_hri_day/tutorial
 2. Make the run_controller.sh file executable
     - `chmod +x run_controller.sh`
-3. Launch the gazebo world
+3. Enter the controller environment
     - `./run_controller.sh`
 
 ## Exercise implementation
