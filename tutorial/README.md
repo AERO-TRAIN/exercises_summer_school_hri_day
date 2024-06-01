@@ -8,7 +8,7 @@
     - `./run_gazebo.sh`
 
 ## Controller container
-1. Navigate to the directory /exercises_summer_school_hri_day/tutorial
+1. Navigate to the /exercises_summer_school_hri_day/tutorial directory
 2. Make the run_controller.sh file executable
     - `chmod +x run_controller.sh`
 3. Enter the controller environment
