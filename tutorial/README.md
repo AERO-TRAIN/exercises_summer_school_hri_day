@@ -16,7 +16,7 @@
 
 ## Exercise implementation
 - In the controller container navigate to the ~/catkin_ws/src/summer_school_controller/src/ directory
-`cd ~/catkin_ws/src/summer_school_controller/src/`
+    - `cd ~/catkin_ws/src/summer_school_controller/src/`
 ### Tasks
 **Aim:** The aim of this workshop is to design a basic teleoperation interface to navigate a quadrotor UAV to a desired position.<br />
 **Goal:** The goal is to navigate the UAV through the three pipes to establish smooth contact with the target.<br />
