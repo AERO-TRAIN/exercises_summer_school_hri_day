@@ -15,7 +15,7 @@
     - `./run_controller.sh`
 
 ## Exercise implementation
-1. In the controller container navigate to the ~/catkin_ws/src/summer_school_controller/src/ directory
+In the controller container navigate to the ~/catkin_ws/src/summer_school_controller/src/ directory
     - `cd ~/catkin_ws/src/summer_school_controller/src/`
 ### Tasks
 **Aim:** The aim of this workshop is to design a basic teleoperation interface to navigate a quadrotor UAV to a desired position.<br />
