@@ -31,8 +31,8 @@
 - **Task 3** Compensate for the Communication Delays.<br />
     You may have noticed that there is a delay in the communication between the controller and the simulator.<br />
     1. Please open the _position_prediction.py_ with your preferred editor (_gedit, nano, vim_).<br />
-    2. Under the _esimate_delay_ method in the _PositionPredictor_ class, please insert your code to estimate the average delay from the ROS messages.<br />
-    3. Under the _esimate_position_ method in the _PositionPredictor_ class, insert your code to estimate the current position of the UAV from the available knowledge of the delays.<br />
+    2. Under the _estimate_delay_ method in the _PositionPredictor_ class, please insert your code to estimate the average delay from the ROS messages.<br />
+    3. Under the _estimate_position_ method in the _PositionPredictor_ class, please insert your code to estimate the current position of the UAV from the available knowledge of the delays.<br />
     4. Test it with the _velocity_controller.py_ and _keyboard_teleoperation.py_ to navigate the UAV through the pipes.<br />
 
 **NOTE: If you need extra terminals for your controller container: in a new window terminal run:** `docker exec -it <your_container_name> bash`
