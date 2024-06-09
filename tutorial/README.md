@@ -35,7 +35,7 @@
     3. Under the _predict_position_ method in the _PositionPredictor_ class, please insert your code to estimate the current position of the UAV from the available knowledge of the delays.<br />
     4. Test it with the _velocity_controller.py_ and _keyboard_teleoperation.py_ to navigate the UAV through the pipes.<br />
 
-**NOTE: If you need an extra terminal for your controller container, run in a new window terminal:** - 
+**NOTE: If you need an extra terminal for your controller container, run in a new window terminal:**
 - `docker container ls` (to find the container name)
 - `docker exec -it <container_name> bash`
 
