@@ -31,11 +31,13 @@
 - **Task 3** Compensate for the Communication Delays.<br />
     You may have noticed that there is a delay in the communication between the controller and the simulator.<br />
     1. Please open the _position_prediction.py_ with your preferred editor (_gedit, nano, vim_).<br />
-    2. Under the _estimate_delay_ method in the _PositionPredictor_ class, please insert your code to estimate the average delay from the ROS messages.<br />
-    3. Under the _estimate_position_ method in the _PositionPredictor_ class, please insert your code to estimate the current position of the UAV from the available knowledge of the delays.<br />
+    2. Under the _estimate_delay_ comment in the _PositionPredictor_ class, please insert your code to estimate the average delay from the ROS messages.<br />
+    3. Under the _predict_position_ method in the _PositionPredictor_ class, please insert your code to estimate the current position of the UAV from the available knowledge of the delays.<br />
     4. Test it with the _velocity_controller.py_ and _keyboard_teleoperation.py_ to navigate the UAV through the pipes.<br />
 
-**NOTE: If you need an extra terminal for your controller container, run in a new window terminal:** `docker exec -it <your_container_name> bash`
+**NOTE: If you need an extra terminal for your controller container, run in a new window terminal:** - 
+- `docker container ls` (to find the container name)
+- `docker exec -it <container_name> bash`
 
 ## Troubleshooting
 Consider opening an Issue if you have [troubles](https://github.com/AERO-TRAIN/exercises_summer_school_hri_day/issues) with the exercises of the repo.\
