@@ -22,7 +22,7 @@
 **Goal of the tasks:** The goal is to navigate the UAV through the three pipes to establish smooth contact with the target.<br />
 - **Task 1** Design a position controller for the UAV.<br />
     1. Please open the _velocity_controller.py_ file with your preferred editor (_gedit, nano, vim_).<br />
-    2. Under the _vel_sp()_ method in the _VelocityController_ class, please insert your code to send velocity inputs to track the position setpoints.<br />
+    2. Under the _velocity_publisher()_ method in the _VelocityController_ class, please insert your code to send velocity inputs to track the position setpoints.<br />
     3. You may publish waypoints on the _/setpoints_position_ topic to test the tracking performance of the controller.<br />
 - **Task 2** Enable a Teleoperation Interface.<br />
     1. Please open the _keyboard_teleoperation.py_ with your preferred editor (_gedit, nano, vim_).<br />
