@@ -3,20 +3,30 @@
 ## Gazebo world container
 1. Navigate to the /exercises_summer_school_hri_day/tutorial directory
 2. Make the run_gazebo.sh file executable
-    - `chmod +x run_gazebo.sh`
-3. Launch the gazebo world
-    - `./run_gazebo.sh`
+   ```
+   chmod +x run_gazebo.sh
+   ```
+4. Launch the gazebo world
+   ```
+   ./run_gazebo.sh
+   ```
 
 ## Controller container
 1. Navigate to the /exercises_summer_school_hri_day/tutorial directory
 2. Make the run_controller.sh file executable
-    - `chmod +x run_controller.sh`
-3. Enter the controller environment
-    - `./run_controller.sh`
+   ```
+   chmod +x run_controller.sh
+   ```
+4. Enter the controller environment
+    ```
+   ./run_controller.sh
+    ```
 
 ## Exercise implementation
 - In the controller container navigate to the ~/catkin_ws/src/summer_school_controller/src/ directory
-    - `cd ~/catkin_ws/src/summer_school_controller/src/`
+  ```
+  cd ~/catkin_ws/src/summer_school_controller/src/
+  ```
 ### Tasks
 **Aim of the tutorial:** The aim of this workshop is to design a basic teleoperation interface to navigate a quadrotor UAV to a desired position.<br />
 **Goal of the tasks:** The goal is to navigate the UAV through the three pipes to establish smooth contact with the target.<br />
@@ -36,8 +46,14 @@
     4. Test it with the _velocity_controller.py_ and _keyboard_teleoperation.py_ to navigate the UAV through the pipes.<br />
 
 **NOTE: If you need an extra terminal for your controller container, run in a new window terminal:**
-- `docker container ls` (to find the container name)
-- `docker exec -it <container_name> bash`
+- Find the container name
+  ```
+  docker container ls
+  ```
+- Execute a new interactive terminal for the container
+  ```
+  docker exec -it <container_name> bash
+  ```
 
 ## Troubleshooting
 Consider opening an Issue if you have [troubles](https://github.com/AERO-TRAIN/exercises_summer_school_hri_day/issues) with the exercises of the repo.\
