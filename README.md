@@ -1,4 +1,4 @@
-# AEROTRAIN SUMMER SCHOOL - Human-Robot Interaction Day: Part 1
+# AEROTRAIN SUMMER SCHOOL - Human-Robot Interaction Day: Tutorial 1
 
 ## Preparation Checklist
 **Before the start of the summer school, the student should have proper setup the laptop with the following:**
