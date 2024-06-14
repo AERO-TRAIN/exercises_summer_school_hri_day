@@ -32,7 +32,7 @@ Consider opening an Issue if you have [troubles](https://github.com/AERO-TRAIN/e
 Feel free to use the [Discussions](https://github.com/AERO-TRAIN/exercises_summer_school_hri_day/discussions) tab to exchange ideas and ask questions.
 
 ## Citation
-This work was motivated by 'Sankaranarayanan, V.N., Damigos, G., Seisa, A.S., Satpute, S.G., Lindgren, T. and Nikolakopoulos, G., 2023, June. Paced-5g: Predictive autonomous control using edge for drones over 5g. In 2023 International Conference on Unmanned Aircraft Systems (ICUAS) (pp. 1155-1161). IEEE.'
+This tutorial was motivated by 'Sankaranarayanan, V.N., Damigos, G., Seisa, A.S., Satpute, S.G., Lindgren, T. and Nikolakopoulos, G., 2023, June. Paced-5g: Predictive autonomous control using edge for drones over 5g. In 2023 International Conference on Unmanned Aircraft Systems (ICUAS) (pp. 1155-1161). IEEE.'
 ```
 @inproceedings{sankaranarayanan2023paced,
   title={Paced-5g: Predictive autonomous control using edge for drones over 5g},
