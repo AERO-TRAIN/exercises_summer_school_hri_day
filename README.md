@@ -8,7 +8,7 @@
       ```
       docker run hello-world
       ```
-2. Terminator
+2. Terminator (Optional)
     ```
     sudo apt-get install terminator
     ```
