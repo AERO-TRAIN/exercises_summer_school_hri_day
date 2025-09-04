@@ -34,12 +34,12 @@ Feel free to use the [Discussions](https://github.com/AERO-TRAIN/exercises_summe
 ## Citation
 This tutorial was motivated by 'Sankaranarayanan, V.N., Damigos, G., Seisa, A.S., Satpute, S.G., Lindgren, T. and Nikolakopoulos, G., 2023, June. Paced-5g: Predictive autonomous control using edge for drones over 5g. In 2023 International Conference on Unmanned Aircraft Systems (ICUAS) (pp. 1155-1161). IEEE.'
 ```
-@inproceedings{sankaranarayanan2023paced,
-  title={Paced-5g: Predictive autonomous control using edge for drones over 5g},
-  author={Sankaranarayanan, Viswa Narayanan and Damigos, Gerasimos and Seisa, Achilleas Santi and Satpute, Sumeet Gajanan and Lindgren, Tore and Nikolakopoulos, George},
-  booktitle={2023 International Conference on Unmanned Aircraft Systems (ICUAS)},
-  pages={1155--1161},
-  year={2023},
+@inproceedings{seisa2025cloud,
+  title={Cloud-Assisted Remote Control for Aerial Robots: From Theory to Proof-of-Concept Implementation},
+  author={Seisa, Achilleas Santi and Sankaranarayanan, Viswa Narayanan and Damigos, Gerasimos and Satpute, Sumeet Gajanan and Nikolakopoulos, George},
+  booktitle={2025 IEEE 25th International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW)},
+  pages={171--176},
+  year={2025},
   organization={IEEE}
 }
 ```
